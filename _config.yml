@@ -28,13 +28,22 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mhanifmuhsin
 linkedin_username: mhanifmuhsin
 
+
 author: Muhamad Hanif Muhsin
+
+copyright: "mhanifmuhsin"
+
+
 
 
 # Build settings
-theme: minima
+# Remove minima theme 
+#theme: minima
 plugins:
   - jekyll-feed
+  
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
