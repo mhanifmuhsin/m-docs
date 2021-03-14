@@ -38,7 +38,7 @@ copyright: "mhanifmuhsin"
 
 # Build settings
 # Remove minima theme 
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   
