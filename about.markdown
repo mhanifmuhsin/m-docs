@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Nama lengkap saya **Muhamad Hanif Muhsin**, saat ini tertarik pada bidang **Front End Developer** menggunakan **Javascript** dan **Library React Js**. Sebelumnya saya sebagai ***Junior Software Engineer (JSE) 2 tahun 8 bulan (2018 - 2020)***, bekerja pada ranah **Pemograman Java** menggunakan Joget Workflow sebagai Platform di **PT Itasoft Pelagus Global Bandung**, Jl. Kapten Tendean No. 52 Hegarmanah.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Jika ada yang membutuhkan saya silahkan menghubungi melalui Email : <m.hanif.muhsin@gmail.com>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Unduh File PDF [Resume](https://drive.google.com/file/d/164Ui_Qy0zIHBGBLwYlmteRj6Q4KyctjK/view?usp=sharing).
 
+Unduh File PDF [CV](https://drive.google.com/file/d/164Ui_Qy0zIHBGBLwYlmteRj6Q4KyctjK/view?usp=sharing).
 
-[jekyll-organization]: https://github.com/jekyll
+>Sekecil apapun kebaikan pasti akan bermanfaat bagi diri kita dan orang lain.
+
+>Perbaiki setiap masalah walaupun itu kecil, karena jika di diamkan akan menjadi masalah besar di kemudian hari.
