@@ -20,7 +20,7 @@ Dokumentasi ini bersumber dari : [dev.to](https://dev.to/palashmon/ultimate-chea
 3. Hapus file dan direktori
 
     ```
-    rm file_to_remove
+    rm file_to_remove  rm -r file_directory
     ```
 4. Membuat sebuah file
 
