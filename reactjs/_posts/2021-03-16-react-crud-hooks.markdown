@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Membuat Aplikasi CRUD menggunakan React JS tanpa Database"
-date:   2021-03-16 15:49:28 +0700
+date:   2021-03-21 15:49:28 +0700
 category: reactjs
 ---
 
