@@ -35,7 +35,7 @@ Dalam dokumentasi ini, kita akan belajar menggunakan Bootstrap 4 dengan React JS
 
     <img src="/assets/images/rc-react-start.png" alt="photo" width="400"/>
 
-3. Install Bootstrap 4
+3. **Install Bootstrap 4**
     
     Masuk ke terminal lagi, dan pastikan ada di folder *yt-navbar-react*, kemudian jalankan perintah berikut :
 
@@ -51,7 +51,7 @@ Dalam dokumentasi ini, kita akan belajar menggunakan Bootstrap 4 dengan React JS
     yarn add jquery popper.js
     ```
 
-4. Import Bootstrap ke index.js atau app.js
+4. **Import Bootstrap ke index.js atau app.js**
 
     ```javascript
     import 'bootstrap/dist/css/bootstrap.min.css';
@@ -59,7 +59,7 @@ Dalam dokumentasi ini, kita akan belajar menggunakan Bootstrap 4 dengan React JS
 
     <img src="/assets/images/rc-imp-b4.png" alt="photo" width="400"/>
 
-5. Install react-router-dom
+5. **Install react-router-dom**
 
     ```base
     npm install --save react-router-dom
@@ -67,7 +67,7 @@ Dalam dokumentasi ini, kita akan belajar menggunakan Bootstrap 4 dengan React JS
     yarn add react-router-dom
     ```
 
-6. Buat Component dengan nama Navbar.js didalam folder src, dan copy kan script berikut :
+6. **Buat Component dengan nama Navbar.js didalam folder src, dan copy kan script berikut :**
 
     ```html
     import React from 'react';
@@ -118,7 +118,7 @@ Dalam dokumentasi ini, kita akan belajar menggunakan Bootstrap 4 dengan React JS
     export default Navbar
     ```
 
-7. Tambahkan script berikut di index.js :
+7. **Tambahkan script berikut di index.js :**
 
     ```javascript
     import { BrowserRouter } from "react-router-dom";
@@ -130,7 +130,7 @@ Dalam dokumentasi ini, kita akan belajar menggunakan Bootstrap 4 dengan React JS
     ```
     <img src="/assets/images/rc-imp-b4-1.png" alt="photo" width="400"/>
 
-8. Update file *App.js*
+8. **Update file *App.js***
 
     ```javascript
     import './App.css';
@@ -145,7 +145,7 @@ Dalam dokumentasi ini, kita akan belajar menggunakan Bootstrap 4 dengan React JS
     export default App;
     ```
 
-9. Jalankan ulang
+9. **Jalankan ulang**
 
     ```javascript
     npm start
