@@ -5,6 +5,7 @@ date:   2021-04-05 09:25:28 +0700
 category: reactjs
 ---
 
+[YouTube](https://youtu.be/e-DFne8Dhgk)
 [Github Source](https://github.com/mhanifmuhsin/yt-navbar-react)
 
 Dalam dokumentasi ini, kita akan belajar menggunakan Bootstrap 4 dengan React JS dengan cara membuat sebuah *Component* Navbar sederhana yang sudah ada di Bootstrap 4. Adapun tahapannya sebagai berikut :
