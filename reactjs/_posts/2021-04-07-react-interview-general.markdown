@@ -178,7 +178,7 @@ Dokumentasi ini merupakan 10 Pertanyaan yang mungkin akan muncul ketika teman-te
 
     |Topic|React|Angular|
     |ARCHITECTURE|Hanya Tampilan MVC|MVC lengkap|
-    |RENDERING|Rendering sisi server|Perenderan sisi klien|
+    |RENDERING|Rendering sisi klien dan bisa sisi server dengan mengunakan Next.js salah satunya|Perenderan sisi klien|
     |DOM|Menggunakan virtual DOM|Menggunakan DOM asli|
     |DATA BINDING|Pengikatan data satu arah|Pengikatan data dua arah|
     |DEBUGGING|Kompilasi waktu debugging|Proses debug waktu proses|
