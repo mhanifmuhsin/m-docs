@@ -30,7 +30,7 @@ Dokumentasi ini merupakan 10 Pertanyaan yang mungkin akan muncul ketika teman-te
 
     - Menggunakna virtual DOM, bukan asli
 
-    - Menggunakan rendering sisi server
+    - Menggunakan rendering sisi client dan bisa juga sisi server contohnya dengan menggunakan Next.js
 
     - Mengikuti aliran satu arah (*uni-directional data flow*) atau *data binding*
 
