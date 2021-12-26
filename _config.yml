@@ -21,8 +21,7 @@
 title: Documentation Blog
 email: m.hanif.muhsin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Documentation Blog merupakan Github Pages yang menggunakan Jekyll sebagai Site Static, blog ini saya 
-  gunakan untuk menyimpan berbagai dokumentasi yang saya pelajari .
+  Documentation Blog is a Github Pages that uses Jekyll as a Static Site, I use this blog to store various documentation that I learn.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mhanifmuhsin.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mhanifmuhsin
