@@ -17,17 +17,21 @@ As Front-End Developer (React JS)
 
 Projects :
 
+**Survey Website, Palapa**, *January 2022 - February 2022*
+
+Tools for development using React JS, Tailwind CSS, Laravel, and Mysql.
+
 **CMS (E-Commerce Website), Vodjo-Torsi**, *December 2021*
 
-Tools for development using React JS, Tailwind CSS, Node JS, and Mysql
+Tools for development using React JS, Tailwind CSS, Node JS, and Mysql.
 
 **POS (Point of Sales), Hero Optic**, *Oktober 2021 - December 2021*
 
-Tools for development using React JS, Inertia JS, Tailwind CSS, Laravel, and Mysql
+Tools for development using React JS, Inertia JS, Tailwind CSS, Laravel, and Mysql.
 
 **E-commerce Website, Lasour**,  *May 2021 - September 2021*
 
-Tools for development using React JS, Redux, Tailwind CSS, Laravel, and Mysql
+Tools for development using React JS, Redux, Tailwind CSS, Laravel, and Mysql.
 
 ---
 #### **PT. Itasoft Pelagus Global, Bandung** *8 July 2018 – 2 December 2020*
