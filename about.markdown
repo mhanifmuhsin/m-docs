@@ -10,7 +10,7 @@ My full name is **Muhamad Hanif Muhsin**, currently working in IT as a **Front E
 
 ### Experience
 ---
-#### **PT. Mahardika Solusi Teknologi, Bandung** *17 May 2021 – 25 December 2021*
+#### **PT. Mahardika Solusi Teknologi, Bandung** *17 May 2021 – Present*
 ---
 
 As Front-End Developer (React JS)
