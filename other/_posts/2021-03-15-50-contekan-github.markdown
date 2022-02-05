@@ -2,7 +2,7 @@
 layout: post
 title:  "50 Contekan Github"
 date:   2021-03-15 11:06:00 +0700
-category: github
+category: other
 ---
 Dokumentasi ini bersumber dari : [freeCodeCamp](https://www.freecodecamp.org/news/git-cheat-sheet/) Fabio Pasific
 
