@@ -64,9 +64,9 @@ Tools for development using Java, Joget workflow and Mysql
 
 If anyone needs me please contact via Email : <m.hanif.muhsin@gmail.com>
 
-Download File PDF [CV](https://drive.google.com/file/d/15aKp9aKTybPdTHFTr1-t-ye20cu3fjmv/view?usp=sharing).
+Download File PDF [CV](https://drive.google.com/file/d/14fVbjjujT8Ng_gfJ5LVoEoAyRSLAomTP/view?usp=sharing).
 
-Download File PDF [Portofolio](https://drive.google.com/file/d/1F3DtccLkVElDExU_fViblRDfyiY4BTbh/view?usp=sharing)
+Download File PDF [Portofolio](https://drive.google.com/file/d/14fVbjjujT8Ng_gfJ5LVoEoAyRSLAomTP/view?usp=sharing)
 
 >The slightest kindness will definitely be useful for ourselves and others..
 
