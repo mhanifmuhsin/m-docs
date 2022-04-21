@@ -23,7 +23,7 @@ email: m.hanif.muhsin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation Blog is a Github Pages that uses Jekyll as a Static Site, I use this blog to store various documentation that I learn.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mhanifmuhsin.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mhanifmuhsin.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mhanifmuhsin
 linkedin_username: mhanifmuhsin
 instagram_username: mhanifmuhsin
