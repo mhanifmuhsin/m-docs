@@ -376,4 +376,10 @@ Dokumentasi ini bersumber dari : [freeCodeCamp](https://www.freecodecamp.org/new
     ```
     git push -f
     ```
+51. **Cara mengatur Credential username:**
+
+    Perintah ini digunakan untuk merubah credential username.
+    ```
+    git config credential.username "new name"
+    ```
 
