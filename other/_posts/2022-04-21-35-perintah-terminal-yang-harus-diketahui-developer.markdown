@@ -47,145 +47,145 @@ Dokumentasi ini bersumber dari : [instagram](https://www.instagram.com/p/CcfSSim
     mkdir
     ```
 
-8. **Memberikan informasi direktori saat ini:**
+8. **Menghapus direktori kosong:**
 
     ```terminal
     rmdir
     ```
 
-9. **Memberikan informasi direktori saat ini:**
+9. **Menghapus direktori dan konten didalam nya:**
 
     ```terminal
     rm
     ```
 
-10. **Memberikan informasi direktori saat ini:**
+10. **Membuat file kosong:**
 
     ```terminal
     touch
     ```
 
-11. **Memberikan informasi direktori saat ini:**
+11. **Mencari sebuah file:**
 
     ```terminal
     locate
     ```
-12. **Memberikan informasi direktori saat ini:**
+12. **Mencari file dan direktori dalam direktori tertentu:**
 
     ```terminal
     find
     ```
-13. **Memberikan informasi direktori saat ini:**
+13. **Digunakan untuk mencari semua teks dalam file tertentu:**
 
     ```terminal
     grep
     ```
-14. **Memberikan informasi direktori saat ini:**
+14. **Digunakan untuk melakukan tugas yang memerlukan izin admin atau root:**
 
     ```terminal
     sudo
     ```
-15. **Memberikan informasi direktori saat ini:**
+15. **Digunakan untuk mendapatkan laporan tentang penggunaan ruang disk sistem (dalam % dan KB):**
 
     ```terminal
     df
     ```
-16. **Memberikan informasi direktori saat ini:**
+16. **Digunakan untuk memeriksa seberapa banyak ruang yang dibutuhkan file atau direktori:**
 
     ```terminal
     du
     ```
-17. **Memberikan informasi direktori saat ini:**
+17. **Digunakan untuk melihat baris pertama dari file teks apa pun:**
 
     ```terminal
     head
     ```
-18. **Memberikan informasi direktori saat ini:**
+18. **Digunakan untuk menampilkan sepuluh baris terakhir dari file teks:**
 
     ```terminal
     tail
     ```
-19. **Memberikan informasi direktori saat ini:**
+19. **Digunakan untuk membandingkan isi dari dua file. baris demi baris:**
 
     ```terminal
     diff
     ```
-20. **Memberikan informasi direktori saat ini:**
+20. **Digunakan untuk mengarsipkan banyak file ke dalam tarball:**
 
     ```terminal
     tar
     ```
-21. **Memberikan informasi direktori saat ini:**
+21. **Digunakan untuk mengubah izin baca, tulis, dan eksekusi file dan direktori:**
 
     ```terminal
     chmod
     ```
-22. **Memberikan informasi direktori saat ini:**
+22. **Digunakan untuk mentransfer kepemilikan file ke nama pengguna yang ditentukan:**
 
     ```terminal
     chown
     ```
-23. **Memberikan informasi direktori saat ini:**
+23. **Menampilkan semua pekerjaan saat ini bersama dengan statusnya:**
 
     ```terminal
     jobs
     ```
-24. **Memberikan informasi direktori saat ini:**
+24. **Digunakan untuk mengakhiri program secara manual:**
 
     ```terminal
     kill
     ```
-25. **Memberikan informasi direktori saat ini:**
+25. **Digunakan untuk memeriksa status konektivitas Anda ke server:**
 
     ```terminal
     ping
     ```
-26. **Memberikan informasi direktori saat ini:**
+26. **Digunakan untuk mengunduh file dari internet:**
 
     ```terminal
     wget
     ```
-27. **Memberikan informasi direktori saat ini:**
+27. **Digunakan untuk menampilkan daftar proses yang berjalan dan berapa banyak CPU yang digunakan setiap proses:**
 
     ```terminal
     top
     ```
-28. **Memberikan informasi direktori saat ini:**
+28. **Digunakan untuk mendapatkan informasi tentang perintah Linux tertentu:**
 
     ```terminal
     man
     ```
-29. **Memberikan informasi direktori saat ini:**
+29. **Digunakan untuk memindahkan beberapa data ke dalam file:**
 
     ```terminal
     echo
     ```
-30. **Memberikan informasi direktori saat ini:**
+30. **Digunakan untuk mengompres file Anda menjadi file zip:**
 
     ```terminal
     zip
     ```
-31. **Memberikan informasi direktori saat ini:**
+31. **Unzip untuk mengekstrak file zip:**
 
     ```terminal
     unzip
     ```
-32. **Memberikan informasi direktori saat ini:**
+32. **Digunakan untuk menampilkan nama host atau jaringan Anda:**
 
     ```terminal
     hostname
     ```
-33. **Memberikan informasi direktori saat ini:**
+33. **Digunakan untuk membuat pengguna baru:**
 
     ```terminal
     useradd
     ```
-34. **Memberikan informasi direktori saat ini:**
+34. **Digunakan untuk menghapus pengguna:**
 
     ```terminal
     userdel
     ```
-35. **Memberikan informasi direktori saat ini:**
+35. **Setelah membuat pengguna, perintah ini dapat digunakan untuk mengatur kata sandi untuk pengguna tersebut:**
 
     ```terminal
     passwd
