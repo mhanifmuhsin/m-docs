@@ -4,7 +4,7 @@ title:  "35 Perintah terminal yang harus diketahui developer"
 date:   2022-04-21 23:00:00 +0700
 category: other
 ---
-Dokumentasi ini bersumber dari : [instagram](https://www.instagram.com/p/CcfSSimviTX/?igshid=YmMyMTA2M2Y=) @codingwithanil
+Dokumentasi ini bersumber dari : instagram [@codingwithanil] (https://www.instagram.com/p/CcfSSimviTX/?igshid=YmMyMTA2M2Y=)
 
 1. **Memberikan informasi direktori saat ini:**
 
