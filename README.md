@@ -18,4 +18,7 @@ url : [https://mhanifmuhsin.com](https://mhanifmuhsin.com)
 sudo rm -rf _site
 bundle update
 bundle exec jekyll serve
+
+watch drafts
+jekyll server --watch --drafts
 ```
